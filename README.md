@@ -1,6 +1,6 @@
-# Title of my website 21080338
+# Title of my website
 
-## Level 2 heading
+## Level 2 heading 21080338
 Write something here
 
 ## Level 3 heading
