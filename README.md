@@ -9,4 +9,4 @@ Write something here
 ## Level 2 again
 lalala
 
-![](images/12.jpg)
+![](/images/12.jpg)
